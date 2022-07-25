@@ -6,4 +6,13 @@ Game engine: Unity / Languages: C#
 ### GitHub products
 - DevTools, C# tools for unity to help develop faster and easier.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rise-of-Arabs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Rise_of_Arabs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/riseofarabs/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9?authuser=0)  
+### Support/Help
+- [Discord server](https://discord.gg/mMZW4XZmbj)
+- Email : riseofarabs.contact@gmail.com
+
+# Contact
+[![twitter](https://img.shields.io/twitter/url?label=Alpha%20dev&logoColor=cyan&style=social&url=https%3A%2F%2Ftwitter.com%2FThe_AlphaDev)](https://twitter.com/The_AlphaDev)
+
+# Follow us
+[![twitter](https://img.shields.io/twitter/url?label=Rise%20of%20Arabs&style=social&url=https%3A%2F%2Ftwitter.com%2FRise_of_Arabs)](https://twitter.com/Rise_of_Arabs)
+[![instagram](https://img.shields.io/twitter/url?label=Rise%20of%20Arabs&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Frise_of_arabs%2F)](https://www.instagram.com/rise_of_arabs)
